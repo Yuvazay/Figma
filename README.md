@@ -194,7 +194,8 @@ homepage
 ```
 
 ## OUTPUT:
-![image](https://github.com/Drcatassistant/Figma/assets/144364462/9384f90a-e1bd-496b-a168-49561dfe10b1)
+![1b7f32a0-b84d-4829-868b-f3bf26d76866 (1)](https://github.com/Yuvazay/Figma/assets/151486377/f0aad9aa-27a9-41c7-ab26-fba5f9981fee)
+
 
 
 ## RESULT:
